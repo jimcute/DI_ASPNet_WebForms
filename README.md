@@ -1,8 +1,7 @@
 # DI_ASPNet_WebForms
 Dependency Injection in ASP.Net Web Forms
 
-#1 Download the project
-#2 Run the project
-#3 Put a debugger in Default.aspx.cs file
-#4 You can see the UserRepository class dependency is injected to the application.
-https://content.screencast.com/users/RainaDilawari/folders/Jing/media/cad5d40b-9947-4751-a16a-f67d28737509/2017-02-27_1133.png
+1 Download the project
+2 Run the project
+3 Put a debugger in Default.aspx.cs file
+4 You can see the UserRepository class dependency is injected to the application.
