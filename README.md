@@ -1,5 +1,4 @@
-# DI_ASPNet_WebForms
-Dependency Injection in ASP.Net Web Forms
+# Dependency Injection in ASP.Net Web Forms
 
 1 Download the project
 
