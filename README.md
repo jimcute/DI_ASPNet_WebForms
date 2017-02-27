@@ -8,3 +8,5 @@ Dependency Injection in ASP.Net Web Forms
 3 Put a debugger in Default.aspx.cs file
 
 4 You can see the UserRepository class dependency is injected to the application.
+
+![Alt text](https://content.screencast.com/users/RainaDilawari/folders/Jing/media/cad5d40b-9947-4751-a16a-f67d28737509/2017-02-27_1133.png "Dependency Injection")
